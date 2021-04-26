@@ -1,4 +1,5 @@
 [
+  "data": [
   {
     "index": 0,
     "name": "Perkins Grimes",
@@ -928,5 +929,6 @@
     "name": "Brady Foley",
     "company": "OMATOM",
     "email": "bradyfoley@omatom.com"
+  }
   }
 ]
